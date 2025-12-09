@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "IKEN",
+  "base_artist": "rirugiliyangugili",
+  "createdAt": "2025-12-09T10:28:17.694992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ishq Kinara – Üsküdar’a Gider Iken",
+      "artist": "Zoe Viccaji feat. Sumru Ağıryürüyen",
+      "has_synced": true,
+      "path": "select/01_Ishq_Kinara_–_Üsküdar’a_Gider_Iken_Zoe_Viccaji_feat._Sumru_Ağıryürüyen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ishq Kinara – Üsküdar’a Gider Iken",
+      "artist": "Zoe Viccaji & Sumru Ağıryürüyen",
+      "has_synced": true,
+      "path": "select/02_Ishq_Kinara_–_Üsküdar’a_Gider_Iken_Zoe_Viccaji_&_Sumru_Ağıryürüyen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Üsküdar'a gider iken",
+      "artist": "Pink Martini",
+      "has_synced": true,
+      "path": "select/03_Üsküdar'a_gider_iken_Pink_Martini.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Üsküdar'a Gider İken",
+      "artist": "Alp Arslan",
+      "has_synced": false,
+      "path": "select/04_Üsküdar'a_Gider_İken_Alp_Arslan.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Üsküdar’a Gider İ̇ken",
+      "artist": "Pink Martini",
+      "has_synced": true,
+      "path": "select/05_Üsküdar’a_Gider_İ̇ken_Pink_Martini.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Katibim - Üsküdar'a Gider İken",
+      "artist": "Aleyna Ünyaylar",
+      "has_synced": true,
+      "path": "select/06_Katibim_-_Üsküdar'a_Gider_İken_Aleyna_Ünyaylar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Üsküdar'a Gider İken (Katibim)",
+      "artist": "Ezgi Köker",
+      "has_synced": true,
+      "path": "select/07_Üsküdar'a_Gider_İken_(Katibim)_Ezgi_Köker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Üsküdar'a gider iken",
+      "artist": "Pink Martini & China Forbes",
+      "has_synced": true,
+      "path": "select/08_Üsküdar'a_gider_iken_Pink_Martini_&_China_Forbes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Uyur İken Uyardılar",
+      "artist": "Ruhi Su",
+      "has_synced": true,
+      "path": "select/09_Uyur_İken_Uyardılar_Ruhi_Su.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Üsküdar'a Gider Iken [On the Way to Üsküda]",
+      "artist": "Pink Martini",
+      "has_synced": true,
+      "path": "select/10_Üsküdar'a_Gider_Iken_[On_the_Way_to_Üsküda]_Pink_Martini.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IKEN",
+      "artist": "rirugiliyangugili",
+      "has_synced": false,
+      "path": "select/pl_01_IKEN_rirugiliyangugili.txt"
+    }
+  ]
+}
